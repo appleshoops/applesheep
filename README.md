@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sorespaghet
+- 👀 I’m interested in coding Swift, making games in Unity, retro gaming, emulators, animation, music and other crap.
+- 🌱 I’m currently learning C# and Swift
+- 💞️ I’m looking to collaborate on some fun stuff
+- 📫 How to reach me - ᏗᎮᎮᏝᏋᏕᏂᏋᏋᎮ.ᎴᎷᎶ#8622
+- 
