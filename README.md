@@ -1,7 +1,12 @@
-👋 Hi, I’m @applesheep 
+# 👋
 
-👀 I’m interested in coding Swift, making games in Unity, retro gaming, emulators, animation, music, and other crap.
+## About Me
+I'm a guy who likes Linux, Apple and coding from Sydney, 🇦🇺
 
-🌱 I’m currently learning C# and Swift
+## Projects and Stuff
+I'm working on a WebKit based browser for macOS and a website where I talk about stuff. Everything else is private or went up in flames.
 
-📫 How to reach me - AppleSheep#8622 (Horseless Headless Horsemann#8622 During October)
+## Contact Me 
+- [Twitter](https://twitter.com/appleshoops)
+- [Discord](discord.gg/4HY7xY5p)
+- [GitHub](https://github.com/appleshoops)
