@@ -4,7 +4,7 @@
 I'm a guy who likes Linux, Apple and coding from Sydney, 🇦🇺
 
 ## Projects and Stuff
-I'm working on a WebKit based browser for macOS and a website where I talk about stuff. Everything else is private or went up in flames.
+I'm working on a WebKit based browser for macOS and iOS and an nice looking Apple Music client for macOS, iOS, Android, Windows and Web (Not For a While) Everything else is private or went up in flames.
 
 ## Contact Me 
 - [Twitter](https://twitter.com/appleshoops)
